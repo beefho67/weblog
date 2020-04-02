@@ -1,0 +1,34 @@
+ruby on rails environment set up
+https://railsbook.tw/chapters/02-environment-setup.html
+
+debug on ruby on rails using vs code
+https://medium.com/@zneuray/vs-code-for-ruby-on-rails-7e643ca740fd
+
+weblog tutorial
+https://rubyonrails.org/
+https://guides.rubyonrails.org/getting_started.html
+https://railsbook.tw/chapters/04-your-first-rails-application.html
+
+devise for authentication
+https://github.com/heartcombo/devise#starting-with-rails
+https://www.youtube.com/watch?v=zJYuLebl-Js
+https://ihower.tw/rails/auth.html
+
+pagination with kaminari
+https://github.com/kaminari/kaminari
+https://www.driftingruby.com/episodes/pagination-with-kaminari
+
+authentication using omniauth-facebook
+https://ihower.tw/rails/auth.html
+https://github.com/simi/omniauth-facebook
+https://github.com/heartcombo/devise/wiki/OmniAuth:-Overview
+
+heroku
+https://railsbook.tw/chapters/32-deployment-with-heroku.html
+
+
+
+
+
+
+
