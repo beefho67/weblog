@@ -1,12 +1,12 @@
 # README
 
 ## Environment set up for Ruby on Rails
-* [How To](https://railsbook.tw/chapters/02-environment-setup.html)
+* [How To in Chinese](https://railsbook.tw/chapters/02-environment-setup.html)
 * Ruby version: 2.7
 * Rails version: 6.0.2.2
 
 ## Debug using VS Code
-* [How To](https://medium.com/@zneuray/vs-code-for-ruby-on-rails-7e643ca740fd)
+* [How To in Chinese](https://medium.com/@zneuray/vs-code-for-ruby-on-rails-7e643ca740fd)
 * Configuration file is .vscode/launch.json
 
 # Weblog tutorial
