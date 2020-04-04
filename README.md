@@ -7,7 +7,7 @@
 
 ## Debug using VS Code
 * [How To in Chinese](https://medium.com/@zneuray/vs-code-for-ruby-on-rails-7e643ca740fd)
-* Configuration file is .vscode/launch.json
+* Configuration file is [.vscode/launch.json](https://github.com/beefho67/weblog/blob/master/.vscode/launch.json)
 
 # Weblog tutorial
 * [Ruby on Rails official site](https://rubyonrails.org/)
@@ -29,7 +29,7 @@ alt="Devise Tutorial" width="240" height="180" border="10" /></a>
 
 # Facebook login with omniauth-facebook
 * [How To](https://github.com/heartcombo/devise/wiki/OmniAuth:-Overview)
-* Need to fill one's own APP_ID and APP_SECRET for config.omniauth in config/initializers/devise.rb 
+* Need to fill one's own APP_ID and APP_SECRET for config.omniauth in [config/initializers/devise.rb](https://github.com/beefho67/weblog/blob/master/config/initializers/devise.rb#L263) 
 
 # Pagination with Kaminari
 * [GitHub project](https://github.com/kaminari/kaminari)
