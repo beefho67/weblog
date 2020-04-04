@@ -1,3 +1,6 @@
+## Facebook login
+* Need to fill one's own APP_ID and APP_SECRET for config.omniauth in [config/initializers/devise.rb](https://github.com/beefho67/weblog/blob/docker/config/initializers/devise.rb#L263) 
+
 ## Run weblog on docker container locally
 * [Use docker compose](https://docs.docker.com/compose/rails/)
 * [Tutorial in Chinese](https://5xruby.tw/posts/deploying-your-docker-rails-app/)
